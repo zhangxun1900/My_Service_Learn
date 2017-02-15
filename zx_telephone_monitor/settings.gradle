@@ -1,0 +1,1 @@
+include ':app', ':zx_music_app', ':zx_service_lifecycle', ':zx_buy_ticket', ':zx_front_office_service', ':zx_remote_service', ':zx_remote_service_caller'

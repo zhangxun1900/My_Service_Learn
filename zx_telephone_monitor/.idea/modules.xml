@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_buy_ticket/zx_buy_ticket.iml" filepath="$PROJECT_DIR$/zx_buy_ticket/zx_buy_ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_front_office_service/zx_front_office_service.iml" filepath="$PROJECT_DIR$/zx_front_office_service/zx_front_office_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_music_app/zx_music_app.iml" filepath="$PROJECT_DIR$/zx_music_app/zx_music_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_remote_service/zx_remote_service.iml" filepath="$PROJECT_DIR$/zx_remote_service/zx_remote_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_remote_service_caller/zx_remote_service_caller.iml" filepath="$PROJECT_DIR$/zx_remote_service_caller/zx_remote_service_caller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_service_lifecycle/zx_service_lifecycle.iml" filepath="$PROJECT_DIR$/zx_service_lifecycle/zx_service_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zx_telephone_monitor.iml" filepath="$PROJECT_DIR$/zx_telephone_monitor.iml" />
+    </modules>
+  </component>
+</project>
